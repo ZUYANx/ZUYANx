@@ -33,7 +33,7 @@ An open-source intelligence framework for investigators.
 ---
 
 ## 📫 Connect with Me  
-- **GitHub**: [Legendhj](https://github.com/Legendhj)  
+- **GitHub**: [ZUYANx](https://github.com/ZUYANx)  
 - **Facebook**: [LEGEND](https://fb.com/Legend)  
 - **Website**: [XVSOULX](https://polypackagingbd.com/)  
 
